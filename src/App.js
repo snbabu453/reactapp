@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Imaginnovate website
+          Imaginnovate website rul sample AQ
         </a>
       </header>
     </div>
